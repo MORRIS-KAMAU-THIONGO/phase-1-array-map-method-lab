@@ -72,7 +72,7 @@ const rollCall = skiSchool.map(studentRollCall);
 ```
 
 We use `map()` when we want to transform the elements in an array in some way.
-To do this, we pass a function _as an argument_; that function (the callback) is
+To do th// Handle special acronyms (OO, API, NaN, JSONP, StopPropagation, PreventDefault)is, we pass a function _as an argument_; that function (the callback) is
 what executes our desired transformation. In JavaScript, arguments can be
 primitive types like `Number` or `String`, but they **can also be work**. Very
 few other programming languages allow that!
